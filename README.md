@@ -1,2 +1,2 @@
-# diffusion-pytorch
-Implementation of the paper named Denoising Diffusion Probabilistic Models.
+# Diffusion PyTorch
+Implementation of Denoising Diffusion Probabilistic Models in PyTorch.
